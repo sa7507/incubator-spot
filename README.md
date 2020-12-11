@@ -163,6 +163,6 @@ Apache Spot is licensed under the Apache License, Version 2.0. See LICENSE for t
 
 spot-nfdump License
 Maintainers
-@EverLoSa@EverLoSa	@ledalima@ledalima	@rabarona@rabarona	@daortizh@daortizh
+@EverLoSahttps@EverLoSa	@ledalima@ledalima	@rabarona@rabarona	@daortizh@daortizh
 @natedogs911@natedogs911	@NathanSegerlind @NathanSegerlind	@moy8011@moy8011
 Thanks
